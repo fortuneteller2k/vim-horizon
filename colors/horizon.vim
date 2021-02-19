@@ -32,34 +32,34 @@ hi! Delimiter cterm=NONE gui=NONE ctermfg=44 guifg=#21bfc2
 hi! DiffAdd cterm=NONE gui=NONE ctermbg=238 ctermfg=7 guibg=#45493e guifg=#c0c5b9
 hi! DiffChange cterm=NONE gui=NONE ctermbg=23 ctermfg=241 guibg=#384851 guifg=#b3c3cc
 hi! DiffDelete cterm=NONE gui=NONE ctermbg=52 ctermfg=167 guibg=#53343b guifg=#ceb0b6
-hi! DiffText cterm=NONE gui=NONE ctermbg=24 ctermfg=233 guibg=#5b7881 guifg=#1c1e26
+hi! DiffText cterm=NONE gui=NONE ctermbg=24 ctermfg=233 guibg=#5b7881 guifg=#16161c
 hi! Directory cterm=NONE gui=NONE ctermfg=203 guifg=#e95678
-hi! Error cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
-hi! ErrorMsg cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#ec6a88
-hi! WarningMsg cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
-hi! EndOfBuffer cterm=NONE gui=NONE ctermbg=233 ctermfg=236 guibg=#1c1e26 guifg=#2e303e
-hi! NonText cterm=NONE gui=NONE ctermbg=233 ctermfg=233 guifg=#2e303e guibg=#1c1e26
+hi! Error cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
+hi! ErrorMsg cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#ec6a88
+hi! WarningMsg cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
+hi! EndOfBuffer cterm=NONE gui=NONE ctermbg=233 ctermfg=236 guibg=#16161c guifg=#2e303e
+hi! NonText cterm=NONE gui=NONE ctermbg=233 ctermfg=233 guifg=#2e303e guibg=#16161c
 hi! SpecialKey cterm=NONE gui=NONE ctermbg=203 ctermfg=235 guibg=#e95678 guifg=#2e303e
-hi! Folded cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#1c1e26 guifg=#6c6f93
-hi! FoldColumn cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#1c1e26 guifg=#6c6f93
+hi! Folded cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#16161c guifg=#6c6f93
+hi! FoldColumn cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#16161c guifg=#6c6f93
 hi! Function cterm=NONE gui=NONE ctermfg=37 guifg=#25b0bc
 hi! Identifier cterm=italic gui=italic ctermfg=203 guifg=#e95678
 hi! Statement cterm=bold gui=bold ctermfg=171 guifg=#b877db
 hi! Include cterm=NONE gui=NONE ctermfg=171 guifg=#b877db
-hi! LineNr cterm=NONE gui=NONE ctermbg=233 ctermfg=239 guibg=#1c1e26 guifg=#6c6f93
+hi! LineNr cterm=NONE gui=NONE ctermbg=233 ctermfg=239 guibg=#16161c guifg=#6c6f93
 hi! MatchParen cterm=NONE gui=NONE ctermbg=237 ctermfg=255 guibg=#3e445e guifg=#ffffff
 hi! MoreMsg cterm=NONE gui=NONE ctermfg=48 guifg=#09f7a0
-hi! Normal cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guibg=#1c1e26 guifg=#d5d8da
+hi! Normal cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guibg=#16161c guifg=#d5d8da
 hi! Operator cterm=NONE gui=NONE ctermfg=37 guifg=#25b0bc
-hi! Pmenu cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guifg=#1c1e26 guibg=#d5d8da
+hi! Pmenu cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guifg=#16161c guibg=#d5d8da
 hi! PmenuSbar cterm=NONE gui=NONE ctermbg=236 guibg=#3d425b
 hi! PmenuSel cterm=NONE gui=NONE ctermbg=240 ctermfg=255 guibg=#5b6389 guifg=#eff0f4
-hi! PmenuThumb cterm=NONE gui=NONE ctermbg=233 guibg=#1c1e26
+hi! PmenuThumb cterm=NONE gui=NONE ctermbg=233 guibg=#16161c
 hi! PreProc cterm=NONE gui=NONE ctermfg=150 guifg=#09f7a0
 hi! Question cterm=NONE gui=NONE ctermfg=150 guifg=#09f7a0
-hi! QuickFixLine cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guibg=#272c42 guifg=#1c1e26
+hi! QuickFixLine cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guibg=#272c42 guifg=#16161c
 hi! Search cterm=NONE gui=NONE ctermbg=216 ctermfg=234 guibg=#e4aa80 guifg=#392313
-hi! SignColumn cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#1c1e26 guifg=#6c6f93
+hi! SignColumn cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#16161c guifg=#6c6f93
 hi! Special cterm=NONE gui=NONE ctermfg=203 guifg=#e95678
 hi! SpellBad cterm=undercurl gui=undercurl ctermbg=95 ctermfg=252 guisp=#eC6a88
 hi! SpellCap cterm=undercurl gui=undercurl ctermbg=24 ctermfg=252 guisp=#25b0bc
@@ -84,8 +84,8 @@ hi! Visual cterm=NONE gui=NONE ctermbg=236 guibg=#272c42
 hi! WildMenu cterm=NONE gui=NONE ctermbg=255 ctermfg=234 guibg=#d4d5db guifg=#17171b
 hi! diffAdded cterm=NONE gui=NONE ctermfg=48 guifg=#09f7a0
 hi! diffRemoved cterm=NONE gui=NONE ctermfg=203 guifg=#eC6a88
-hi! ALEErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
-hi! ALEWarningSign cterm=NONE gui=NONE ctermbg=233 ctermfg=209 guibg=#1c1e26 guifg=#fab795
+hi! ALEErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
+hi! ALEWarningSign cterm=NONE gui=NONE ctermbg=233 ctermfg=209 guibg=#16161c guifg=#fab795
 hi! ALEVirtualTextError cterm=NONE gui=NONE ctermfg=203 guifg=#eC6a88
 hi! ALEVirtualTextWarning cterm=NONE gui=NONE ctermfg=209 guifg=#fab795
 hi! CtrlPMode1 cterm=NONE gui=NONE ctermbg=241 ctermfg=234 guibg=#5a5f72 guifg=#17171b
@@ -93,16 +93,16 @@ hi! EasyMotionShade cterm=NONE gui=NONE ctermfg=239 guifg=#3d425b
 hi! EasyMotionTarget cterm=NONE gui=NONE ctermfg=48 guifg=#09f7a0
 hi! EasyMotionTarget2First cterm=NONE gui=NONE ctermfg=209 guifg=#fab795
 hi! EasyMotionTarget2Second cterm=NONE gui=NONE ctermfg=209 guifg=#fab795
-hi! GitGutterAdd cterm=NONE gui=NONE ctermbg=233 ctermfg=48 guibg=#1c1e26 guifg=#09f7a0
-hi! GitGutterChange cterm=NONE gui=NONE ctermbg=233 ctermfg=109 guibg=#1c1e26 guifg=#e95678
-hi! GitGutterChangeDelete cterm=NONE gui=NONE ctermbg=233 ctermfg=109 guibg=#1c1e26 guifg=#e95678
-hi! GitGutterDelete cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
+hi! GitGutterAdd cterm=NONE gui=NONE ctermbg=233 ctermfg=48 guibg=#16161c guifg=#09f7a0
+hi! GitGutterChange cterm=NONE gui=NONE ctermbg=233 ctermfg=109 guibg=#16161c guifg=#e95678
+hi! GitGutterChangeDelete cterm=NONE gui=NONE ctermbg=233 ctermfg=109 guibg=#16161c guifg=#e95678
+hi! GitGutterDelete cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
 hi! Sneak cterm=NONE gui=NONE ctermbg=140 ctermfg=234 guibg=#f09483 guifg=#e95678
 hi! SneakScope cterm=NONE gui=NONE ctermbg=236 ctermfg=242 guibg=#272c42 guifg=#d5d8da
-hi! SyntasticErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
-hi! SyntasticStyleErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
-hi! SyntasticStyleWarningSign cterm=NONE gui=NONE ctermbg=233 ctermfg=209 guibg=#1c1e26 guifg=#fab795
-hi! SyntasticWarningSign cterm=NONE gui=NONE ctermbg=233 ctermfg=209 guibg=#1c1e26 guifg=#fab795
+hi! SyntasticErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
+hi! SyntasticStyleErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
+hi! SyntasticStyleWarningSign cterm=NONE gui=NONE ctermbg=233 ctermfg=209 guibg=#16161c guifg=#fab795
+hi! SyntasticWarningSign cterm=NONE gui=NONE ctermbg=233 ctermfg=209 guibg=#16161c guifg=#fab795
 hi! ZenSpace cterm=NONE gui=NONE ctermbg=203 guibg=#eC6a88
 
 hi! link cssBraces Delimiter
@@ -205,14 +205,14 @@ hi! link typescriptNull Constant
 hi! link typescriptParens Normal
 
 if has('nvim')
-  let g:terminal_color_0 = '#1c1e26'
+  let g:terminal_color_0 = '#16161c'
   let g:terminal_color_1 = '#eC6a88'
   let g:terminal_color_2 = '#09f7a0'
   let g:terminal_color_3 = '#fab795'
   let g:terminal_color_4 = '#25b0bc'
   let g:terminal_color_5 = '#f09483'
   let g:terminal_color_6 = '#e95678'
-  let g:terminal_color_7 = '#1c1e26'
+  let g:terminal_color_7 = '#16161c'
   let g:terminal_color_8 = '#d5d8da'
   let g:terminal_color_9 = '#6bdfe6'
   let g:terminal_color_10 = '#fab38e'
@@ -221,7 +221,7 @@ if has('nvim')
   let g:terminal_color_13 = '#95c4ce'
   let g:terminal_color_14 = '#d2d4de'
 else
-  let g:terminal_ansi_colors = ['#1c1e26', '#eC6a88', '#09f7a0', '#fab795', '#25b0bc', '#f09483', '#e95678', '#1c1e26', '#d5d8da', '#6bdfe6', '#fab38e', '#21bfc2', '#b877db', '#95c4ce', '#d2d4de']
+  let g:terminal_ansi_colors = ['#16161c', '#eC6a88', '#09f7a0', '#fab795', '#25b0bc', '#f09483', '#e95678', '#16161c', '#d5d8da', '#6bdfe6', '#fab38e', '#21bfc2', '#b877db', '#95c4ce', '#d2d4de']
 endif
 
 if exists("g:horizon_transparent_bg")
