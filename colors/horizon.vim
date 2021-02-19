@@ -21,9 +21,9 @@ endif
 
 let g:colors_name = 'horizon'
 
-hi! ColorColumn cterm=NONE gui=NONE ctermbg=235 guibg=#16161c
-hi! CursorColumn cterm=NONE gui=NONE ctermbg=235 guibg=#16161c
-hi! CursorLine cterm=NONE gui=NONE ctermbg=235 guibg=#16161c
+hi! ColorColumn cterm=NONE gui=NONE ctermbg=235 guibg=#2e303e
+hi! CursorColumn cterm=NONE gui=NONE ctermbg=235 guibg=#2e303e
+hi! CursorLine cterm=NONE gui=NONE ctermbg=235 guibg=#2e303e
 hi! Comment cterm=italic gui=italic ctermfg=242 guifg=#6c6f93
 hi! Constant cterm=NONE gui=NONE ctermfg=209 guifg=#f09483
 hi! Cursor cterm=NONE gui=NONE ctermbg=242 ctermfg=242 guibg=#6c6f93 guifg=#6c6f93
@@ -37,9 +37,9 @@ hi! Directory cterm=NONE gui=NONE ctermfg=203 guifg=#e95678
 hi! Error cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
 hi! ErrorMsg cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#ec6a88
 hi! WarningMsg cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#1c1e26 guifg=#eC6a88
-hi! EndOfBuffer cterm=NONE gui=NONE ctermbg=233 ctermfg=236 guibg=#1c1e26 guifg=#16161c
-hi! NonText cterm=NONE gui=NONE ctermbg=233 ctermfg=233 guifg=#16161c guibg=#1c1e26
-hi! SpecialKey cterm=NONE gui=NONE ctermbg=203 ctermfg=235 guibg=#e95678 guifg=#16161c
+hi! EndOfBuffer cterm=NONE gui=NONE ctermbg=233 ctermfg=236 guibg=#1c1e26 guifg=#2e303e
+hi! NonText cterm=NONE gui=NONE ctermbg=233 ctermfg=233 guifg=#2e303e guibg=#1c1e26
+hi! SpecialKey cterm=NONE gui=NONE ctermbg=203 ctermfg=235 guibg=#e95678 guifg=#2e303e
 hi! Folded cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#1c1e26 guifg=#6c6f93
 hi! FoldColumn cterm=NONE gui=NONE ctermbg=233 ctermfg=242 guibg=#1c1e26 guifg=#6c6f93
 hi! Function cterm=NONE gui=NONE ctermfg=37 guifg=#25b0bc
