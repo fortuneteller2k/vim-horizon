@@ -49,9 +49,9 @@ hi! Include cterm=NONE gui=NONE ctermfg=171 guifg=#b877db
 hi! LineNr cterm=NONE gui=NONE ctermbg=233 ctermfg=239 guibg=#16161c guifg=#6c6f93
 hi! MatchParen cterm=NONE gui=NONE ctermbg=237 ctermfg=255 guibg=#3e445e guifg=#ffffff
 hi! MoreMsg cterm=NONE gui=NONE ctermfg=48 guifg=#09f7a0
-hi! Normal cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guibg=#16161c guifg=#2e303e
+hi! Normal cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guibg=#16161c guifg=#d5d8da
 hi! Operator cterm=NONE gui=NONE ctermfg=37 guifg=#25b0bc
-hi! Pmenu cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guifg=#16161c guibg=#2e303e
+hi! Pmenu cterm=NONE gui=NONE ctermbg=233 ctermfg=252 guifg=#16161c guibg=#d5d8da
 hi! PmenuSbar cterm=NONE gui=NONE ctermbg=236 guibg=#3d425b
 hi! PmenuSel cterm=NONE gui=NONE ctermbg=240 ctermfg=255 guibg=#5b6389 guifg=#eff0f4
 hi! PmenuThumb cterm=NONE gui=NONE ctermbg=233 guibg=#16161c
@@ -98,7 +98,7 @@ hi! GitGutterChange cterm=NONE gui=NONE ctermbg=233 ctermfg=109 guibg=#16161c gu
 hi! GitGutterChangeDelete cterm=NONE gui=NONE ctermbg=233 ctermfg=109 guibg=#16161c guifg=#e95678
 hi! GitGutterDelete cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
 hi! Sneak cterm=NONE gui=NONE ctermbg=140 ctermfg=234 guibg=#f09483 guifg=#e95678
-hi! SneakScope cterm=NONE gui=NONE ctermbg=236 ctermfg=242 guibg=#272c42 guifg=#2e303e
+hi! SneakScope cterm=NONE gui=NONE ctermbg=236 ctermfg=242 guibg=#272c42 guifg=#d5d8da
 hi! SyntasticErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
 hi! SyntasticStyleErrorSign cterm=NONE gui=NONE ctermbg=233 ctermfg=203 guibg=#16161c guifg=#eC6a88
 hi! SyntasticStyleWarningSign cterm=NONE gui=NONE ctermbg=233 ctermfg=209 guibg=#16161c guifg=#fab795
@@ -213,7 +213,7 @@ if has('nvim')
   let g:terminal_color_5 = '#f09483'
   let g:terminal_color_6 = '#e95678'
   let g:terminal_color_7 = '#16161c'
-  let g:terminal_color_8 = '#2e303e'
+  let g:terminal_color_8 = '#d5d8da'
   let g:terminal_color_9 = '#6bdfe6'
   let g:terminal_color_10 = '#fab38e'
   let g:terminal_color_11 = '#21bfc2'
@@ -221,7 +221,7 @@ if has('nvim')
   let g:terminal_color_13 = '#95c4ce'
   let g:terminal_color_14 = '#d2d4de'
 else
-  let g:terminal_ansi_colors = ['#16161c', '#eC6a88', '#09f7a0', '#fab795', '#25b0bc', '#f09483', '#e95678', '#16161c', '#fdf0ed', '#6bdfe6', '#fab38e', '#21bfc2', '#b877db', '#95c4ce', '#d2d4de']
+  let g:terminal_ansi_colors = ['#16161c', '#eC6a88', '#09f7a0', '#fab795', '#25b0bc', '#f09483', '#e95678', '#16161c', '#d5d8da', '#6bdfe6', '#fab38e', '#21bfc2', '#b877db', '#95c4ce', '#d2d4de']
 endif
 
 if exists("g:horizon_transparent_bg")
